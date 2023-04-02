@@ -1,0 +1,42 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.d-flex{
+    margin: 10px;
+}
+
+td{
+    padding-left: 15px;
+}
+.lower-bracket {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    padding-left: 20px;
+  }
+  
+  .hide {
+    display: none;
+    opacity: 0;
+  }
+
+  .card {
+    background-color: aquamarine;
+    margin: 20px 0 20px 150px;
+  }
+/* 
+  .input{
+    width: 500px;
+  }
+
+  ::placeholder {
+    width: 500px;
+  } */
